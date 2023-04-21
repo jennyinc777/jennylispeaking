@@ -1,0 +1,18 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: jennyli speaking
+theme: PaperMod
+enableEmoji: true
+
+params:
+    homeInfoParams:
+        Title: Notes on...
+        Content: The relationships between culture, technology, politics, and risk.
+
+menu:
+  main:
+    - name: About
+      url: about/
+    - name: Archive
+      url: archives
+      weight: 5
