@@ -1,14 +1,12 @@
 ---
 title: "Childhood"
 date: 2023-05-02T10:22:50-04:00
-draft: false
+draft: true
 ---
 
 When I think about on my childhood, at first there isn’t much that comes to mind. What can you really say about a suburb 40 minutes north of Atlanta, GA. It was like any other WASP place in the United States circa 2007. There was a Kroger, a Walmart, a McDonalds, a Chick-fil-a, and a Costco all on the same street. That street would eventually turn into a smaller road which was where I grew up, in a cookie cutter, Pulte, 3-bed, 3-bath little house across the street from a middle school.
 
 There are many things that I would like to say about my childhood but they feel like they have properties of a gas. I can’t seem to hold onto the memories — probably because most of those crucial core memories happened in my mind while on the outside, I painted a wholly different picture of who I was. Only when I was in my late 20’s did I look back on my past and began to see cracks in the idyllic suburban life that was my childhood.
-
-<a href="https://google.com" target="_blank"> test2 </a>
 
 I really started to dig deeper into my childhood when I was pregnant with my daughter.  The pregnancy book I was reading (called [The Motherly Guide to Becoming Mama](https://www.amazon.com/Motherly-Guide-Becoming-Mama-Redefining-ebook/dp/B07SMFY6N6), great book by the way) suggested that my husband and I think about our childhoods, what went well and what didn't, so that we could have an understanding of what our values are when we raise our daughter.  The more I thought about it, the more I realized how extremely lonely I was when I was a child.  The idea that I could depend on someone emotionally was laughable.  I remember in 8th grade, my teacher told the entire class that we were to get something signed off every week by our parents.  My mom told me that she didn't want to sign it off anymore and permitted me to forge her signature.  One day, I had forgotten to sign my sheet off at home and so I forged the signature in class.  A girl caught me signing my sheet and she told the teacher, who promptly sided with me, saying that I did no such thing.  That girl said threateningly that she was going to beat me up after class.  Looking back, I was so stressed.  I didn't know if I was going to come home with a black eye or how to even explain myself -- that my mom didn't want to sign this sheet or lie to protect her?  I didn't tell my parents.  Perhaps I felt like it would fall on deaf ears.  Perhaps I felt like it was no big deal.  Perhaps I felt like my mom had bigger things to worry about.  For whatever reason, these small (but stressful) moments in life fell squarely on my shoulders at a young age.  ~~After I got married, my husband showed me time and time again that burdens can be shared with him and that I could lean on him when the going gets tough.~~
 
