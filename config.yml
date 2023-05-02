@@ -7,7 +7,7 @@ enableEmoji: true
 params:
     homeInfoParams:
         Title: Notes on...
-        Content: The relationships between culture, technology, politics, and risk.
+        Content: Topics that interest me
 
 menu:
   main:
